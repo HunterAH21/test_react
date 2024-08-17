@@ -1,0 +1,2 @@
+body{align-items:center;background-color:azure;height:100vh}body,div{display:flex;justify-content:center}div{background-color:bisque;gap:30px;height:70px;width:600px}button{border:.5px solid #000;font-weight:bolder;transition:transform .2s;width:50px}button:hover{transform:scale(1.5)}p{margin-top:35px}#add{background-color:#90ee90}#sub{background-color:red}
+/*# sourceMappingURL=main.4225163f.css.map*/
