@@ -1,0 +1,35 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: azure;
+}
+div{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  height: 70px;
+  width: 600px;
+  background-color: bisque;
+}
+button{
+  width: 50px;
+  font-weight: bolder;
+  border: .5px black solid;
+  transition: transform .2s; 
+}
+button:hover{
+  transform: scale(1.5);
+    
+}
+p{
+  margin-top: 35px;
+}
+
+#add{
+  background-color: lightgreen;
+}
+#sub{
+  background-color: red;
+}
